@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Shopping notes</string>
+
+    <string name="add_shop_item_content_description">Добавить новую заметку</string>
+    <string name="app_name">Shopping List</string>
+    <string name="name_hint">Название:</string>
+    <string name="count_hint">Количество:</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="error_input_name">Не корретное название элемента</string>
+    <string name="error_input_count">Не корретное количество элементов</string>
 </resources>
